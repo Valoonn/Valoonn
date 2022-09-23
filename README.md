@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valoonn
-- 👀 I’m interested in ...
+- 👀 I’m interested in tech, AI ...
 - 🌱 I’m currently learning at EPITECH PARIS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking to work on freelance assignments
 - 📫 How to reach me : valentin.mace@epitech.eu
 
 <!---
